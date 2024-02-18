@@ -11,3 +11,5 @@ Webgpupy implementation of ray tracing in one weekend
     chapter_4_wgpy
     chapter_5_wgpy
     chapter_7_wgpy
+    chapter_8_wgpy
+    chapter_9_wgpy
